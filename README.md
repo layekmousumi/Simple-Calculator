@@ -1,5 +1,5 @@
 # Simple Calculator
-
+![Calculator webpage image](image.png)
 This is a basic calculator web application created using HTML, CSS, and JavaScript.
 
 ## Features
